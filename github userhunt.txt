@@ -1,0 +1,6 @@
+a JavaScript/jQuery application that fetches and displays Github user profile info and repositories using Ajax. it is built with functions, events, loops, the $.ajax method and more.
+Your Github client_secret is exposed in this application.
+Searches Github.com user profiles and displays profile info and the latest repositories
+Oauth application web app is built
+bootstrap CDN a custom boot swatch theme is used 
+using jquery and ajax it is built.
